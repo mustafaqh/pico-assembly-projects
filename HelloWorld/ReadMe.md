@@ -29,7 +29,7 @@ Average value: 45
 
 ---
 
-## ⚡ Build & Run
+## Build & Run
 Example workflow (Linux/macOS):
 
 ```bash
@@ -54,5 +54,5 @@ This example serves as a **Hello World** in assembly by:
 ---
 
 ##  Author
-👤 **Mustafa Habeb**  
+**Mustafa Habeb**  
 Fresh Software Engineer passionate about **embedded systems, IoT, and low-level programming**.  
