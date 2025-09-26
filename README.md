@@ -5,21 +5,21 @@ The projects demonstrate low-level programming concepts such as **GPIO control, 
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 🔸 LED Flash (Basic)
+###  LED Flash (Basic)
 - Controls an LED connected to **GPIO 0**.
 - **Button 1 (GPIO 1)** → turns the LED **ON**.  
 - **Button 2 (GPIO 2)** → turns the LED **OFF**.  
 
-### 🔸 LED Flash (Extended)
+###  LED Flash (Extended)
 - Flashes an LED with a delay.  
 - Sets up **4 buttons** for extended functionality:
   - Button 3 is intended to change the blink speed.  
   - Buttons 1 & 2 (currently commented) for ON/OFF control.  
 - Demonstrates using loops and conditional branches in assembly.
 
-### 🔸 Average of Array
+###  Average of Array
 - Computes the **average of 8 numbers** stored in memory.  
 - Uses a custom `sum` and `average` subroutine in assembly.  
 - Prints the result via USB using `printf` from the Pico SDK.  
