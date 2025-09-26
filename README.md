@@ -19,7 +19,7 @@ The projects demonstrate low-level programming concepts such as **GPIO control, 
   - Buttons 1 & 2 (currently commented) for ON/OFF control.  
 - Demonstrates using loops and conditional branches in assembly.
 
-###  Average of Array
+###  Average of Array (HelloWorld)
 - Computes the **average of 8 numbers** stored in memory.  
 - Uses a custom `sum` and `average` subroutine in assembly.  
 - Prints the result via USB using `printf` from the Pico SDK.  
